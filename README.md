@@ -9,4 +9,5 @@
 - Astro
 - Next.js
 - Node.js
-- Express
+- Git and github
+- Tailwind css
