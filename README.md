@@ -6,8 +6,6 @@
 - Css
 - Js
 - React
-- Astro
 - Next.js
-- Node.js
 - Git and github
 - Tailwind css
