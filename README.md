@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @davidarizpe
+- 👀 I’m interested in next js
+- 🌱 I’m currently to deepen in my skills.
+- ⚡ I'm aself-taught programmer
